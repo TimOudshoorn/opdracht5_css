@@ -1,0 +1,26 @@
+p {
+    color: green;
+}
+.black-border {
+    border:5px solid black;
+}
+#gray-background {
+    background-color: #f1f1f1;
+}
+body {
+    font: normal 20px arial,helvetica,sans-serif;
+}
+.green {
+    color: green;
+}
+a{
+    text-underline-offset: 10px;
+    color:darkslategray;
+}
+body ol {
+    font-size: 18px;
+}
+main{
+    font-weight: bold;
+    color: forestgreen;
+}
